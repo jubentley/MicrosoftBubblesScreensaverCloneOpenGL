@@ -1,0 +1,47 @@
+
+
+//	V2 Flasher, not really that great
+
+	float r = 1.0f;
+	float g = 0.0f;
+	float b = 1.0f;
+	bool rupdown = true;
+	bool gupdown = false;
+	bool bupdown = false;
+	bool *rgb[3] = { false,false,false };
+
+
+	if (rupdown) { r += 0.01f; if (r >= 1.5f) { rupdown = !rupdown; } }
+	else { r -= 0.01f; if (r <= -0.5f) { rupdown = !rupdown; }}
+	if (gupdown) { g += 0.01f; if (g >= 1.5f) { gupdown = !gupdown; } }
+	else { g -= 0.01f; if (g <= -0.5f) { gupdown = !gupdown; } }
+	if (bupdown) { b += 0.01f; if (b >= 1.5f) { bupdown = !bupdown; } }
+	else { b -= 0.01f; if (b <= -0.5f) { bupdown = !bupdown; } }
+
+	//v3
+
+		GLfloat magl = 0.01f;	//nitude
+	bool rlupdown = true;
+	bool tbupdown = false;
+
+	GLfloat lon = 1.0f, lat = 1.5f;
+
+			//color flasher
+		if (updown) { rgbval[rgorb] += mag; if (rgbval[rgorb] > 1.0f) { updown = !updown; }}
+		else { rgbval[rgorb] -= mag; if (rgbval[rgorb] < 0.30f) { rgorb++; if (rgorb > 2) 
+		{ rgorb = 0; } updown = !updown;}}
+		//lon lat stretcher
+		if (rlupdown) { lon -= magl; if (lon < 0.5f) { rlupdown = !rlupdown; } }
+		else { lon += magl;  if (lon > 1.0f) { rlupdown = !rlupdown; } }
+		if (tbupdown) { lat -= magl; if (lat < 0.5f) { tbupdown = !tbupdown; } }
+		else { lat += magl;  if (lat > 1.5f) { tbupdown = !tbupdown; } }
+
+
+
+//send to second monitor
+//int monitorcount;
+//GLFWmonitor** monitors = glfwGetMonitors(&monitorcount);
+//printf("Number of Monitors: %d\n", monitorcount);
+//if (monitorcount > 1) { *monitors++; }//if secondary monitor, use it, for now
+glfwWindowHint(GLFW_AUTO_ICONIFY, 0);//dont minimise on focus loss
+//	window = glfwCreateWindow(1920, 1080, "Hello World", *monitors, NULL);
