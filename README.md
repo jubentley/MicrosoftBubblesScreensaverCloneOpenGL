@@ -16,6 +16,6 @@ These dependancies are:
 * glfw-3.2.1.bin.WIN64
 * glew-2.1.0
 * glm-0.9.9.4 (only root\glm included as GLM), what can i say i was a uni student?
-* Bitmap.h v1.2.1** – By Benjamin Kalytta (2006–2007)  
+* Bitmap.h v1.2.1 – By Benjamin Kalytta (2006–2007)  
 
 These are bundled to ensure compatibility, especially since some are no longer be easily available.
