@@ -1173,6 +1173,9 @@
     <None Include="..\ThirdParties\GLM\GLM\gtx\wrap.inl">
       <Filter>Header Files\ThirdParty\GLM</Filter>
     </None>
+    <None Include="Vertex0.glsl">
+      <Filter>Source Files</Filter>
+    </None>
   </ItemGroup>
   <ItemGroup>
     <Text Include="DumpOfDebatablyUselessCode.txt">
