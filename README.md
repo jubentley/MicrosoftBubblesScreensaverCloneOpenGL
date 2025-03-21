@@ -6,4 +6,7 @@ This program was a milestone that later became a much larger full-fledged Tai Ch
 
 In its current state (and this is a really early build) its stable and useable but it needs a lot of refinement.
 
-Massive, massive credits to @TheCherno and his OpenGL series on youtube for if not for that this may not of become a reality and I would of failed my custom University Final Project!
+Massive, massive credits to [@TheCherno](https://github.com/TheCherno) 
+
+
+@TheCherno and his OpenGL series on youtube for if not for that this may not of become a reality and I would of failed my custom University Final Project!
