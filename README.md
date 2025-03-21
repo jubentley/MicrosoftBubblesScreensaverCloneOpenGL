@@ -12,6 +12,8 @@ You can see a video of it running [here](https://www.youtube.com/watch?v=m3XdwpF
 
 Massive, massive credits to [TheCherno](https://github.com/TheCherno) and his [OpenGL Series](https://www.youtube.com/watch?v=W3gAzLwfIP0&list=PLlrATfBNZ98foTJPJ_Ev03o2oq3-GGOS2) on youtube for if not for that this may not of become a reality (most other guides were pretty bad) and I would of failed my specialized University Final Project!
 
+How did VR Tai Chi score? 100/100 and it really brought a smile to my Professors face, for context we were all taught Legacy OpenGL and everyone thought Modern OpenGL (this) too hard, let alone OpenVR (which actually was hard). 
+
 ## Dependencies  
 This project includes all necessary third-party libraries in the repository.
 These dependancies are:
