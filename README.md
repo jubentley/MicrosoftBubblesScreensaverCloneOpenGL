@@ -8,7 +8,7 @@ This program was a milestone that later became a much larger full-fledged Tai Ch
 
 In its current state (and this is a really early build) its stable and useable but it needs a lot of refinement.
 
-You can see a video of it running [here](https://www.youtube.com/watch?v=m3XdwpFVK98&list=PLoexzHtl62yWyu0h-OItQpDZCHwT4CqGm&index=10).
+You can see a video of it running [here](https://www.youtube.com/watch?v=m3XdwpFVK98&list=PLoexzHtl62yWyu0h-OItQpDZCHwT4CqGm&index=10) (dont forget to like and subscribe 😃).
 
 Massive, massive credits to [TheCherno](https://github.com/TheCherno) and his [OpenGL Series](https://www.youtube.com/watch?v=W3gAzLwfIP0&list=PLlrATfBNZ98foTJPJ_Ev03o2oq3-GGOS2) on youtube for if not for that this may not of become a reality (most other guides were pretty bad) and I would of failed my specialized University Final Project!
 
