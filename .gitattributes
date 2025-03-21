@@ -62,4 +62,4 @@
 #*.rtf   diff=astextplain
 #*.RTF   diff=astextplain
 
-ThirdParties/* linguist-vendored
+ThirdParties/** linguist-vendored
