@@ -23,3 +23,6 @@ These dependancies are:
 * Bitmap.h v1.2.1 – By Benjamin Kalytta (2006–2007)  
 
 These are bundled to ensure compatibility, especially since some are no longer be easily available.
+
+## Contributor
+[Aiden Faulconer](https://github.com/AidenFaulconer)
