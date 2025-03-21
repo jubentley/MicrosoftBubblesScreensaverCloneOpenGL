@@ -23,7 +23,7 @@
       <UniqueIdentifier>{982d4035-515d-4202-bbc9-e517d8608f19}</UniqueIdentifier>
     </Filter>
     <Filter Include="Shaders">
-      <UniqueIdentifier>{4af0a8b3-7bd2-47b1-93d6-e7c799e504d7}</UniqueIdentifier>
+      <UniqueIdentifier>{acae5565-e234-4729-bd36-ae7929eaf022}</UniqueIdentifier>
     </Filter>
   </ItemGroup>
   <ItemGroup>
@@ -1176,10 +1176,10 @@
     <None Include="..\ThirdParties\GLM\GLM\gtx\wrap.inl">
       <Filter>Header Files\ThirdParty\GLM</Filter>
     </None>
-    <None Include="Vertex0.glsl">
+    <None Include="Shaders\Fragment0.glsl">
       <Filter>Shaders</Filter>
     </None>
-    <None Include="Fragment0.glsl">
+    <None Include="Shaders\Vertex0.glsl">
       <Filter>Shaders</Filter>
     </None>
   </ItemGroup>
