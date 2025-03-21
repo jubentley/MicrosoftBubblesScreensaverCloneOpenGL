@@ -1,4 +1,4 @@
-##MicrosoftBubblesScreensaverCloneOpenGL
+## MicrosoftBubblesScreensaverCloneOpenGL
 
 OpenGL Game/3D Engine written in C++, OpenGL 4+ (currently 3 but its the same) and GLSL.
 
