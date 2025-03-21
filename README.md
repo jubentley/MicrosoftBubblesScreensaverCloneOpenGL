@@ -25,4 +25,4 @@ These dependancies are:
 These are bundled to ensure compatibility, especially since some are no longer be easily available.
 
 ## Contributor
-[Aiden Faulconer](https://github.com/AidenFaulconer)
+* [Aiden Faulconer](https://github.com/AidenFaulconer)
