@@ -527,6 +527,7 @@
     <None Include="..\ThirdParties\GLM\GLM\gtx\vector_angle.inl" />
     <None Include="..\ThirdParties\GLM\GLM\gtx\vector_query.inl" />
     <None Include="..\ThirdParties\GLM\GLM\gtx\wrap.inl" />
+    <None Include="Fragment0.glsl" />
     <None Include="Vertex0.glsl" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
