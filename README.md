@@ -6,7 +6,7 @@ A 3D Engine cant really exist unless it does something so this one clones the Mi
 
 This program was a milestone that later became a much larger full-fledged Tai Chi Simulator that also used <openvr.h> to make it an actual SteamVR Game (see [justinbentley.dev#VRTaiChi](https://justinbentley.dev/#VRTaiChi)).
 
-In its current state (and this is a really early build) its stable and useable but it needs a lot of refinement.
+In its current state (and this is a really early build) its stable and useable but it needs a lot of refinement, I plan on working on it a bit.
 
 You can see a video of it running [here](https://www.youtube.com/watch?v=m3XdwpFVK98&list=PLoexzHtl62yWyu0h-OItQpDZCHwT4CqGm&index=10) (dont forget to like and subscribe 😃).
 
