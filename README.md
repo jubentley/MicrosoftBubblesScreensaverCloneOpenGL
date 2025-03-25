@@ -1,6 +1,6 @@
 ## Microsoft Bubbles Screensaver Clone in OpenGL 3/4+ and C/C++
 
-OpenGL Game/3D Engine written in C++, OpenGL 4+ (currently 3 but its the same) and GLSL.
+OpenGL Game/3D Engine written in C++, OpenGL 4+ (currently 3 but its the same) and GLSL (OpenGL Shading Language).
 
 A 3D Engine cant really exist unless it does something so this one clones the Microsoft Bubbles Screensaver.
 
